@@ -1,0 +1,22 @@
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\Praktika\LabRab6\bin\Debug\LabRab6.exe.config
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\Praktika\LabRab6\bin\Debug\LabRab6.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\Praktika\LabRab6\bin\Debug\LabRab6.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\Praktika\LabRab6\obj\Debug\LabRab6.csproj.AssemblyReference.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\Praktika\LabRab6\obj\Debug\LabRab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\Praktika\LabRab6\obj\Debug\LabRab6.Form1.resources
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\Praktika\LabRab6\obj\Debug\LabRab6.Properties.Resources.resources
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\Praktika\LabRab6\obj\Debug\LabRab6.csproj.GenerateResource.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\Praktika\LabRab6\obj\Debug\LabRab6.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\Praktika\LabRab6\obj\Debug\LabRab6.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\Praktika\LabRab6\obj\Debug\LabRab6.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\работы для всех\Matvei\LabRab6\bin\Debug\LabRab6.exe.config
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\работы для всех\Matvei\LabRab6\bin\Debug\LabRab6.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\работы для всех\Matvei\LabRab6\bin\Debug\LabRab6.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\работы для всех\Matvei\LabRab6\obj\Debug\LabRab6.csproj.AssemblyReference.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\работы для всех\Matvei\LabRab6\obj\Debug\LabRab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\работы для всех\Matvei\LabRab6\obj\Debug\LabRab6.Form1.resources
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\работы для всех\Matvei\LabRab6\obj\Debug\LabRab6.Properties.Resources.resources
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\работы для всех\Matvei\LabRab6\obj\Debug\LabRab6.csproj.GenerateResource.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\работы для всех\Matvei\LabRab6\obj\Debug\LabRab6.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\работы для всех\Matvei\LabRab6\obj\Debug\LabRab6.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\Папка со всем\учеба\работы для всех\Matvei\LabRab6\obj\Debug\LabRab6.pdb
