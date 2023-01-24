@@ -74,9 +74,9 @@ namespace LabRab7
             dataGridView1.Columns[4].Name = "Фамилия владельца";
             dataGridView1.Columns[5].Name = "Последнее обращение";
             dataGridView1.Columns[6].Name = "Диагноз";
-            dataGridView1.RowCount = (int)Form1.Pets.LongCount();
+            dataGridView1.RowCount = (int)find.LongCount();
             int i = 0;
-            foreach (Pet pets in Form1.Pets)
+            foreach (Pet pets in find)
             {
                 dataGridView1.Rows[i].Cells[0].Value = pets.Name;
                 dataGridView1.Rows[i].Cells[1].Value = pets.Poroda;

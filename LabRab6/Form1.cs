@@ -82,21 +82,25 @@ namespace LabRab6
                 points[i].X = Convert.ToInt32(strPoints[i].Split(',')[0]);
                 points[i].Y = Convert.ToInt32(strPoints[i].Split(',')[1]);
             }
-            double[] results = new double[points.Length];
-            results[0] = Math.Sqrt(Math.Pow(points[0].X - points[points.Length - 1].X, 2) + Math.Pow(points[0].Y - points[points.Length - 1].Y, 2));
-            for(int i = 0; i < points.Length - 1; i++)
+            double[] results = new double[(int)Math.Pow(points.Length, points.Length)];
+            double min = double.MaxValue;
+            String result = "";
+            int index = 0;
+            for (int i = 0; i < points.Length; i++)
             {
-                results[i + 1] = Math.Sqrt((points[i + 1].X - points[i].X) + (points[i + 1].Y - points[i].Y));
+                for(int j = 0; j < points.Length; j++)
+                {
+                    results[index] = Math.Sqrt(Math.Pow((points[j].X - points[i].X), 2) + Math.Pow((points[j].Y - points[i].Y), 2));
+                    if (results[index] < min && results[index] != 0)
+                    {
+                        result = (i + 1) + ", " + (j + 1);
+                        min = results[index];
+                    }
+                    index++;
+                }     
             }
-            double result = double.MaxValue;
 
-            for (int i = 0; i < points.Length - 1; i++)
-            {
-                if (results[i] < result)
-                    result = results[i];
-            }
-
-            textBox3.Text = result.ToString();
+            textBox3.Text = result;
         }
 
         private void button4_Click(object sender, EventArgs e)
